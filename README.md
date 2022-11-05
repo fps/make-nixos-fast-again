@@ -8,6 +8,4 @@ imports = [
   # ... other imports ...
   ./make-nixos-fast-again
 ];
-
-make-nixos-fast-again.enable = true;
 </pre>
